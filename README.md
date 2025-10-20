@@ -1,3 +1,8 @@
+## Submission Details
+
+Name - Vishal Singh Rajpurohit
+
+
 ## Data Version Control (DVC)
 
 - [DVC](https://dvc.org/) is an open-source tool that serves as a powerful asset in the machine learning project toolkit, with a primary focus on data versioning.
