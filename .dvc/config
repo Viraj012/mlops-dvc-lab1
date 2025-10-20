@@ -1,0 +1,7 @@
+[core]
+    no_scm = True
+    analytics = false
+    remote = myremote
+['remote "myremote"']
+    url = gs://dvc-bucket1
+    credentialpath = /Users/viraj/Desktop/MLOps/DVC_Lab/JSON/mlops-dvc-lab-475722-ce516e6394e0.json
